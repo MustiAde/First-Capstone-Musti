@@ -1,0 +1,28 @@
+{
+  "name": "first-capstone-project",
+  "description": "A server for the capstone project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MustiAde/First-Capstone-Musti.git"
+  },
+  "keywords": [
+    "capstone",
+    "server",
+    "musti"
+  ],
+  "author": "Mustapha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MustiAde/First-Capstone-Musti/issues"
+  },
+  "homepage": "https://github.com/MustiAde/First-Capstone-Musti#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
