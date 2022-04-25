@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/MustiAde/First-Capstone-Musti#readme",
   "dependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "os": "^0.1.2"
   }
 }
